@@ -1,5 +1,7 @@
 # Music Player Website
 
+<h3>Link https://vikas04das.github.io/Music_Player/ </h3>
+
 ## Overview
 This project is a simple music player website that allows users to listen to their favorite tracks directly from the browser. The website is designed with a user-friendly interface and includes basic functionalities such as play, pause, volume control, and track navigation.
 
@@ -13,5 +15,3 @@ This project is a simple music player website that allows users to listen to the
 - **HTML5**: Used for structuring the webpage.
 - **CSS3**: Styling the music player interface.
 - **JavaScript**: Handling functionalities like play, pause, track change, etc.
-
-<h3>Link https://vikas04das.github.io/Music_Player/ </h3>
